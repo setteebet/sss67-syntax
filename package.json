@@ -1,0 +1,18 @@
+{
+  "name": "sss67-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "wwwlotto432✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"wwwlotto432",
+"เว็บหวยออนไลน์อันดับ1",
+"lottovip download",
+"แทงหวยหุ้นออนไลน์",
+"สมัคร lottovip เข้าสู่ระบบ"
+],
+  "repository": "https://github.com/setteebet/sss67-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
